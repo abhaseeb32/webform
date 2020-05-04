@@ -1,0 +1,27 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+body{
+    line-height: 2px;
+    text-align: center;
+}
+.a{
+    color: rgb(51, 182, 11);
+    font-size: 40px;
+    font-weight: bold;
+}
+.b{
+    color: rgb(19, 19, 204);
+    font-size: 40px;
+    font-weight: bold;
+}
+a{
+    color: rgb(5, 5, 121);
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    line-height: 70px;
+}
